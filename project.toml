@@ -1,0 +1,11 @@
+[project]
+name = "astro_transit_lib"
+version = "0.1.0"
+description = "Библиотека для вычислений транзитов звезд"
+authors = [
+    {name = "Sofi", email = "sofiakiosova37@gmail.com"}
+]
+license = {text = "MIT"}
+dependencies = [
+    "numpy",
+]
